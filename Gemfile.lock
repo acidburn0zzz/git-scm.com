@@ -63,7 +63,7 @@ GEM
     erubis (2.7.0)
     exceptional (2.0.33)
       rack
-    excon (0.27.6)
+    excon (0.71.0)
     execjs (2.0.2)
     factory_girl (4.2.0)
       activesupport (>= 3.0.0)
